@@ -262,7 +262,7 @@ function continueStatement(num) {
    // Cuando el número de iteraciones alcance el valor 5, no se suma ese caso y
    // se continua con la siguiente iteración.
    // [PISTA]: utiliza el statement 'continue'.
-   // Tu código:
+   // Tu código
    var nuevoArrayNum2 = [];
 
    for ( var i = 0; i < 10; i++){
